@@ -1,0 +1,18 @@
+.login-page {
+  background: linear-gradient(to right, #667eea, #764ba2);
+}
+
+.login-card input::placeholder {
+  color: #ddd;
+}
+
+.login-card input {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  color: white;
+}
+
+.login-card input:focus {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+}
