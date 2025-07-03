@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://mern-billing-frontend-eexuli5qu-sohaib-ahmeds-projects-7e765d35.vercel.app",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
